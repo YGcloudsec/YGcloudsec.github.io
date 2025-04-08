@@ -37,8 +37,8 @@ This project demonstrates a basic pen-testing lab setup using VMware Workstation
 
 Lab Setup
 
-Host: Windows
-Hypervisor: VMware Workstation Pro
+> Host: Windows
+> Hypervisor: VMware Workstation Pro
 Network: Host-Only (VMnet1, 192.168.100.0/24)
 VMs:
   Kali Linux:
@@ -50,7 +50,6 @@ Services: SSH (port 22), Nginx (port 80)
 User: lab
 Security: Fail2Ban
 
-```
 
 #### Header 4
 
