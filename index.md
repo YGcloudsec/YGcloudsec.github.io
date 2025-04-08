@@ -10,9 +10,17 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# YGcloudsec Cyber Securiy Home
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hello everyone, thanks for coming to check out my page. This is where I will list my CyberSec projects and talk a little about my self.
+
+I am a Cyber Security Professional currently looking for a job. After working several years at one of the top crypto currency exchanges here in the States. I was a Security Analyst L2 working mostly on EDR and breaches. After working that position for a couple of years I decided to move more towards IAM and Cloud/Network Egineering. I find the problems to be more interesting and hours less grueling.
+
+Some of the certifications I got to further re-enforce my background are: Comtpia Network + and Security +, SPLUNK CORE Certified User and AZ-900.
+
+I have done some projects on AWS but definitely more familiar with Azure but I think all cloud computing platforms are all pretty similar.
+
+My passions outside of work are gamin, golf and crypto. Looking into how Bitcoin works and podcasts/articles around the creation of Bitcoin is what lead me to be interested Cyber Security. Trying to understand how Bitcoin is secured lead to me look into what SHA 256 is and so I went down the rabbit hole.
 
 ## Header 2
 
