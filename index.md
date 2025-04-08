@@ -8,7 +8,7 @@ YGcloudsec: Cyber Security Professional Home Page
 
 Currently looking for work
 
-# YGcloudsec Cyber Securiy Home
+# YGcloudsec Cyber Security Home
 
 Hello everyone, thanks for coming to check out my page. This is where I will list my CyberSec projects and talk a little about my self.
 
@@ -33,19 +33,23 @@ My passions outside of work are gamin, golf and crypto. Looking into how Bitcoin
 
 ### [https://github.com/YGcloudsec/Pen-testing-lab](./another-page.html).
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+This project demonstrates a basic pen-testing lab setup using VMware Workstation Pro, where a Kali Linux VM is used to brute-force an Ubuntu VM over a Host-Only network. The lab includes network configuration, SSH installation, brute-force attacks with Hydra, and basic security hardening with Fail2Ban.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+Lab Setup
+
+Host: Windows
+Hypervisor: VMware Workstation Pro
+Network: Host-Only (VMnet1, 192.168.100.0/24)
+VMs:
+  Kali Linux:
+  IP: 192.168.100.20
+Tools: nmap, hydra
+Ubuntu 20.04:
+IP: 192.168.100.10
+Services: SSH (port 22), Nginx (port 80)
+User: lab
+Security: Fail2Ban
+
 ```
 
 #### Header 4
