@@ -105,7 +105,8 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![CloudSec]image.jpg
+
 
 ### Large image
 
