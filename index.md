@@ -1,14 +1,12 @@
 ---
-layout: default
+YGcloudsec: Cyber Security Professional Home Page
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[https://github.com/YGcloudsec](./another-page.html).
 
-[Link to another page](./another-page.html).
+[https://www.linkedin.com/in/youngguerra/](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Currently looking for work
 
 # YGcloudsec Cyber Securiy Home
 
@@ -16,19 +14,24 @@ Hello everyone, thanks for coming to check out my page. This is where I will lis
 
 I am a Cyber Security Professional currently looking for a job. After working several years at one of the top crypto currency exchanges here in the States. I was a Security Analyst L2 working mostly on EDR and breaches. After working that position for a couple of years I decided to move more towards IAM and Cloud/Network Egineering. I find the problems to be more interesting and hours less grueling.
 
-Some of the certifications I got to further re-enforce my background are: Comtpia Network + and Security +, SPLUNK CORE Certified User and AZ-900.
+Some of the certifications I got to further re-enforce my background are: Comtpia Network + and Security +, SPLUNK CORE Certified User and AZ-900. More to come shortly
 
 I have done some projects on AWS but definitely more familiar with Azure but I think all cloud computing platforms are all pretty similar.
 
 My passions outside of work are gamin, golf and crypto. Looking into how Bitcoin works and podcasts/articles around the creation of Bitcoin is what lead me to be interested Cyber Security. Trying to understand how Bitcoin is secured lead to me look into what SHA 256 is and so I went down the rabbit hole.
 
-## Header 2
+## Inspirations
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<p>
+  <a href="https://nakamotoinstitute.org/library/cypherpunk-manifesto/"><i>A Cypherpunk's Manifesto</i></a>
+</p>
+ "Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world."
+ -Eric Hughes, March 9, 1993
 
-### Header 3
+
+***
+
+### [https://github.com/YGcloudsec/Pen-testing-lab](./another-page.html).
 
 ```js
 // Javascript code with syntax highlighting.
