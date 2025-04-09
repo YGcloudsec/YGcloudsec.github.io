@@ -47,14 +47,22 @@ Lab Setup
     <li>Network: Host-Only (VMnet1, 192.168.100.0/24)</li>
     <li>VMs:
         <ul>
-            <li>Kali Linux</li>
-            <li>IP: 192.168.100.20</li>
+            <li>Kali Linux
+                <ul>
+                    <li>IP: 192.168.100.20</li>
+                    <li>Tools: nmap, hydra</li>
+                </ul>
+            </li>
+            <li>Ubuntu 20.04
+                <ul>
+                    <li>IP: 192.168.100.10</li>
+                    <li>Services: SSH (port 22), Nginx (port 80)</li>
+                    <li>User: lab</li>
+                    <li>Security: Fail2Ban</li>
+                </ul>
+            </li>
         </ul>
-    <li>Tools: nmap, hydra</li>
-    <li>IP: 192.168.100.10</li>
-    <li>Services: SSH (port 22), Nginx (port 80)</li>
-    <li>User: lab</li>
-    <li>Security: Fail2Ban</li>
+    </li>
 </ul>
 
 **
