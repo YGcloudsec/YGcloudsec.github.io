@@ -47,7 +47,7 @@ Lab Setup
     <li>Network: Host-Only (VMnet1, 192.168.100.0/24)</li>
     <li>VMs:
         <ul>
-            <li>Kali Linux:
+            <li>Kali Linux</li>
             <li>IP: 192.168.100.20</li>
         </ul>
     <li>Tools: nmap, hydra</li>
