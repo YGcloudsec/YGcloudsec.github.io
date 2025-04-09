@@ -25,7 +25,7 @@ My passions outside of work are gamin, golf and crypto. Looking into how Bitcoin
 <p>
   <a href="https://nakamotoinstitute.org/library/cypherpunk-manifesto/"><i>A Cypherpunk's Manifesto</i></a>
 </p>
-<i> "Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world." <i>
+<em> "Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world." </em>
 
  -Eric Hughes, March 9, 1993
 
@@ -34,7 +34,7 @@ My passions outside of work are gamin, golf and crypto. Looking into how Bitcoin
 
 ### ePortfolio Projects and Demos
 
-#1 Spinning up VMs and Pen Testing 
+<h2>#1 Spinning up VMs and Pen Testing </h2>
 [https://github.com/YGcloudsec/Pen-testing-lab](./another-page.html).
 
 This project demonstrates a basic pen-testing lab setup using VMware Workstation Pro, where a Kali Linux VM is used to brute-force an Ubuntu VM over a Host-Only network. The lab includes network configuration, SSH installation, brute-force attacks with Hydra, and basic security hardening with Fail2Ban.
@@ -55,9 +55,13 @@ Lab Setup
     <li>Services: SSH (port 22), Nginx (port 80)</li>
     <li>User: lab</li>
     <li>Security: Fail2Ban</li>
+</ul>
+
+**
+
+<h2>RBAC Demo</h2>
 
 
-#### Header 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
