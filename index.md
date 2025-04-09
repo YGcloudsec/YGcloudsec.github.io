@@ -25,30 +25,36 @@ My passions outside of work are gamin, golf and crypto. Looking into how Bitcoin
 <p>
   <a href="https://nakamotoinstitute.org/library/cypherpunk-manifesto/"><i>A Cypherpunk's Manifesto</i></a>
 </p>
- "Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world."
+<i> "Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world." <i>
+
  -Eric Hughes, March 9, 1993
 
 
 ***
 
-### [https://github.com/YGcloudsec/Pen-testing-lab](./another-page.html).
+### ePortfolio Projects and Demos
+
+#1 Spinning up VMs and Pen Testing 
+[https://github.com/YGcloudsec/Pen-testing-lab](./another-page.html).
 
 This project demonstrates a basic pen-testing lab setup using VMware Workstation Pro, where a Kali Linux VM is used to brute-force an Ubuntu VM over a Host-Only network. The lab includes network configuration, SSH installation, brute-force attacks with Hydra, and basic security hardening with Fail2Ban.
 
 Lab Setup
 
-> Host: Windows
-> Hypervisor: VMware Workstation Pro
-Network: Host-Only (VMnet1, 192.168.100.0/24)
-VMs:
-  Kali Linux:
-  IP: 192.168.100.20
-Tools: nmap, hydra
-Ubuntu 20.04:
-IP: 192.168.100.10
-Services: SSH (port 22), Nginx (port 80)
-User: lab
-Security: Fail2Ban
+<ul>
+    <li>Host: Windows</li>
+    <li>Hypervisor: VMware Workstation Pro</li>
+    <li>Network: Host-Only (VMnet1, 192.168.100.0/24)</li>
+    <li>VMs:
+        <ul>
+            <li>Kali Linux:
+            <li>IP: 192.168.100.20</li>
+        </ul>
+    <li>Tools: nmap, hydra</li>
+    <li>IP: 192.168.100.10</li>
+    <li>Services: SSH (port 22), Nginx (port 80)</li>
+    <li>User: lab</li>
+    <li>Security: Fail2Ban</li>
 
 
 #### Header 4
