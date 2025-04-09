@@ -34,7 +34,7 @@ My passions outside of work are gamin, golf and crypto. Looking into how Bitcoin
 
 ### ePortfolio Projects and Demos
 
-<h2>#1 Spinning up VMs and Pen Testing </h2>
+<h4>#1 Spinning up VMs and Pen Testing </h4>
 [https://github.com/YGcloudsec/Pen-testing-lab](./another-page.html).
 
 This project demonstrates a basic pen-testing lab setup using VMware Workstation Pro, where a Kali Linux VM is used to brute-force an Ubuntu VM over a Host-Only network. The lab includes network configuration, SSH installation, brute-force attacks with Hydra, and basic security hardening with Fail2Ban.
@@ -59,7 +59,7 @@ Lab Setup
 
 **
 
-<h2>RBAC Demo</h2>
+<h4>#2 RBAC Demo</h4>
 
 
 
