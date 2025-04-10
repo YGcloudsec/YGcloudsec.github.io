@@ -87,7 +87,15 @@ First, I created a Project Folder and named it rbac_demo. After installing the n
 RBAC enhances security, streamlines administrative tasks, and promotes compliance. A vital part of least priveledge. zero trust architecture and healthy security practices.
 
 
-##### Header 5
+<h4>#3 AWS IAM Policy Auditor</h4>
+[https://github.com/YGcloudsec/aws-iam-auditor](./another-page.html).
+
+Although I have been mainly focused on Azure, I wanted to play around with AWS as it is the leading cloud service provider. It is similary enough to Azure that I think transitioning from Azure to AWS will be relatively simple. I hope I dont have to eat my words later haha.
+
+This project focuses on Cloud Security best practices and automating tasks via Python and AWS SDK (Boto3).
+
+My favorite part of this project was getting introduced to hiding the AWS Secret Access Key. I have to deacvitave and create a new key becuase I had acidentally posted the Secret Key to Git Hub when pushing my original project. I had read of a recent breach due to Secret Keys being exposed and glad I made this mistake on this demo to keep in mind for future production changes.
+
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
