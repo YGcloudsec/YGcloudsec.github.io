@@ -32,9 +32,10 @@ My passions outside of work are gamin, golf and crypto. Looking into how Bitcoin
 
 ***
 
-### ePortfolio Projects and Demos
+<h1> ePortfolio Projects and Demos</h1>
 
 <h4>#1 Spinning up VMs and Pen Testing </h4>
+
 [https://github.com/YGcloudsec/Pen-testing-lab](./another-page.html).
 
 This project demonstrates a basic pen-testing lab setup using VMware Workstation Pro, where a Kali Linux VM is used to brute-force an Ubuntu VM over a Host-Only network. The lab includes network configuration, SSH installation, brute-force attacks with Hydra, and basic security hardening with Fail2Ban.
@@ -69,11 +70,18 @@ Lab Setup
 
 <h4>#2 RBAC Demo</h4>
 
+   Creating a Simple RBAC System using free and open source software.
+[https://github.com/YGcloudsec/rbac_demo](./another-page.html).
+    
+   <h5>Tools used:</h5>
+    <ul>
+        <li><strong>Python:</strong> For the backend logic.</li>
+        <li><strong>Flask:</strong> A lightweight web framework.</li>
+        <li><strong>SQLite:</strong> A simple database to store users and roles.</li>
+        <li><strong>Flask-Login:</strong> To handle user sessions.</li>
+        <li><strong>AI:</strong> Troubleshooting</li>
+    </ul>
 
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
 ##### Header 5
 
