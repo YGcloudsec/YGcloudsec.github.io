@@ -92,7 +92,7 @@ RBAC enhances security, streamlines administrative tasks, and promotes complianc
 
 Although I have been mainly focused on Azure, I wanted to play around with AWS as it is the leading cloud service provider. It is similary enough to Azure that I think transitioning from Azure to AWS will be relatively simple. I hope I dont have to eat my words later haha.
 
-This project focuses on Cloud Security best practices and automating tasks via Python and AWS SDK (Boto3).
+This project focuses on Cloud Security best practices and automating tasks via Python and AWS SDK (Boto3). The script created audits AWS IAM for security risks by detecting overly permissive policies and flag users without MFA.
 
 My favorite part of this project was getting introduced to hiding the AWS Secret Access Key. I have to deacvitave and create a new key becuase I had acidentally posted the Secret Key to Git Hub when pushing my original project. I had read of a recent breach due to Secret Keys being exposed and glad I made this mistake on this demo to keep in mind for future production changes.
 
