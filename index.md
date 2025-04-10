@@ -51,6 +51,7 @@ My passions outside of work are gaming 🎮, Golfing ⛳, and crypto ₿. Lookin
 
 <h1> ePortfolio Projects and Demos</h1>
 
+
 <h4>#1 Spinning up VMs and Pen Testing </h4>
 
 [https://github.com/YGcloudsec/Pen-testing-lab](./another-page.html).
@@ -118,24 +119,6 @@ My favorite part of this project was getting introduced to hiding the AWS Secret
 
 <img src="https://github.com/YGcloudsec/YGcloudsec.github.io/blob/main/image.jpg?raw=true" alt="Cloud Security">
 
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
