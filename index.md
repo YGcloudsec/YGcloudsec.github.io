@@ -8,17 +8,35 @@ YGcloudsec: Cyber Security Professional Home Page
 
 Currently looking for work
 
-# YGcloudsec Cyber Security Home
+# YGcloudsec Cyber Security Home 🏠
 
-Hello everyone, thanks for coming to check out my page. This is where I will list my CyberSec projects and talk a little about my self and my journey.
+Hello everyone, thanks for coming to check out my home page! This is where I will list my CyberSec projects and talk a little about my self and my journey.
 
-I am a Cyber Security Professional currently looking to join a team working as a Cloud Security Engineer or a similar position . After working several years at one of the top crypto currency exchanges here in the States. I was a Security Analyst L2 working mostly on EDR, breaches and triaging. After working that position for a couple of years I decided to move more towards IAM and Cloud/Network Egineering. I find the problems to be more interesting and hours less grueling.
+I am a Cyber Security Professional currently looking to join a team working in IAM and Cloud Security. After working remotely for several years at one of the top crypto currency exchanges here in the US, I am ready to try a change of pace. I was a Security Analyst L2 working mostly on EDR, breaches and triaging. After working that position for a couple of years I realized my passion was more towards IAM and Cloud/Network Egineering. I find the problems to be more intriguing and enjoyable to solve.
 
-Some of the certifications I got to further re-enforce my background are: Comtpia Network + and Security +, SPLUNK CORE Certified User and AZ-900. More to come shortly
 
 I have done some projects on AWS but definitely more familiar with Azure but I think all cloud computing platforms are all pretty similar.
 
-My passions outside of work are gamin, golf and crypto. Looking into how Bitcoin works and podcasts/articles around the creation of Bitcoin is what lead me to be interested Cyber Security. Trying to understand how Bitcoin is secured lead to me look into what SHA 256 is and so I went down the rabbit hole.
+My passions outside of work are gaming 🎮, Golfing ⛳, and crypto ₿. Looking into how Bitcoin works and podcasts/articles around the creation of Bitcoin is what lead me to be interested Cyber Security. Trying to understand how Bitcoin is secured lead to me look into what SHA 256 is and so I went down the rabbit hole.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certifications</title>
+</head>
+<body>
+    <h2>My Certifications &#127891;</h2>
+    <ul>
+        <li>CompTIA Network+ &#127760;</li>
+        <li>CompTIA Security+ &#128274;</li>
+        <li>Splunk Core Certified User &#128202;</li>
+        <li>AZ-900: Microsoft Azure Fundamentals &#9729;</li>
+    </ul>
+</body>
+</html>
+
 
 ## Inspirations
 
@@ -26,6 +44,7 @@ My passions outside of work are gamin, golf and crypto. Looking into how Bitcoin
   <a href="https://nakamotoinstitute.org/library/cypherpunk-manifesto/"><i>A Cypherpunk's Manifesto</i></a>
 </p>
 <em> "Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world." </em>
+
 
  -Eric Hughes, March 9, 1993
 
@@ -98,8 +117,6 @@ This project focuses on Cloud Security best practices and automating tasks via P
 My favorite part of this project was getting introduced to hiding the AWS Secret Access Key. I have to deacvitave and create a new key becuase I had acidentally posted the Secret Key to Git Hub when pushing my original project. I had read of a recent breach due to Secret Keys being exposed and glad I made this mistake on this demo to keep in mind for future production changes.
 
 
-
-### Small image
 
 <img src="https://github.com/YGcloudsec/YGcloudsec.github.io/blob/main/image.jpg?raw=true" alt="Cloud Security">
 
