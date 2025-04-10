@@ -146,7 +146,7 @@ My favorite part of this project was getting introduced to hiding the AWS Secret
 
 ### Small image
 
-![CloudSec]image.jpg
+<img src="[https://raw.githubusercontent.com/YGCloudsec/your-repo/main/Screen%20Shots/branching.png](https://github.com/YGcloudsec/YGcloudsec.github.io/blob/main/image.jpg?raw=true)" alt="Branching Diagram">
 
 
 ### Large image
