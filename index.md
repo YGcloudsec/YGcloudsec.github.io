@@ -69,18 +69,22 @@ Lab Setup
 ***
 
 <h4>#2 RBAC Demo</h4>
-
-   Creating a Simple RBAC System using free and open source software.
 [https://github.com/YGcloudsec/rbac_demo](./another-page.html).
+
+For this project I created a simple RBAC Web App System using free and open source software.
     
    <h5>Tools used:</h5>
-    <ul>
+  <ul>
         <li><strong>Python:</strong> For the backend logic.</li>
         <li><strong>Flask:</strong> A lightweight web framework.</li>
         <li><strong>SQLite:</strong> A simple database to store users and roles.</li>
         <li><strong>Flask-Login:</strong> To handle user sessions.</li>
         <li><strong>AI:</strong> Troubleshooting</li>
-    </ul>
+  </ul>
+
+First, I created a Project Folder and named it rbac_demo. After installing the necessary tools listed above, I then set up a virtual environment in (venv) C:\Users\MyName\rbac_demo>. Usings Flask's login management system really streamlined the process for the set up. Then I set up the login process, created a simple database of example users, set routes for each user and finally created templates for each login page based on the user's assigned role. The user's permissions were assigned in the templates and when each user signed in, they were restricted based on their roles and permissions.
+
+RBAC enhances security, streamlines administrative tasks, and promotes compliance. A vital part of least priveledge. zero trust architecture and healthy security practices.
 
 
 ##### Header 5
