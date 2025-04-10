@@ -19,12 +19,10 @@ I have done some projects on AWS but definitely more familiar with Azure but I t
 
 My passions outside of work are gaming 🎮, Golfing ⛳, and crypto ₿. Looking into how Bitcoin works and podcasts/articles around the creation of Bitcoin is what lead me to be interested Cyber Security. Trying to understand how Bitcoin is secured lead to me look into what SHA 256 is and so I went down the rabbit hole.
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Certifications</title>
 </head>
 <body>
     <h2>My Certifications &#127891;</h2>
